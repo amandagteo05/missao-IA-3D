@@ -1,9 +1,9 @@
 export const perguntas = [
     {
-        enunciado: "O que caracteriza o racismo estrutural na sociedade?",
+        enunciado: "Como o racismo estrutural impacta o acesso a oportunidades?",
         alternativas: [
             {
-                texto: "Desigualdades raciais",
+                texto: "Desigualdades de oportunidades",
                 afirmacao: [
                     "São perpetuadas por instituições, políticas e normas sociais.",
                     "afirmacao 2"
