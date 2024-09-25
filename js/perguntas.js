@@ -41,20 +41,56 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "você apoia racismo?",
+        enunciado: "Qual o papel das politicas publicas no combate ao racismo?",
         alternativas: [
             {
-                texto:"sim, eu apoio o movimento racista",
+                texto:"Implementação de ações afirmativas",
                 afirmacao: [
-                    "você realmente já ouviu  falar o que é o racismo?  A sua história e quantas milhares de pessoa foram prejudicadas e mortas? ",
-                    "afirmacao 2"
+                    "Ações afirmativas promovem a inclusão de grupos marginalizados em espaços antes inacessíveis? ",
                     ]
             },
             {
-                texto:"Não, sou contra o movimento racista",
+                texto:"Neutralidade das politicas publicas",
                 afirmacao: [
-                    "que legal! concordamos que o racismo não é uma coisa boa ",
-                    "afirmacao 2"
+                    "As politicas publicas devem ser neutras e não focar em questoes raciais  ",
+                    ]
+            }
+            
+        ]
+    },
+
+     {
+        enunciado: "Como o racismo estrutural afeta o sistema de justiça?",
+        alternativas: [
+            {
+                texto:"Desigualdade no sistema de justiça",
+                afirmacao: [
+                    "Pessoas negras e de outras minorias raciais enfrentam taxas de prisao mais altas ",
+                    ]
+            },
+            {
+                texto:"Igualdade no sistema de justiça",
+                afirmacao: [
+                    "O sistema de justiça trata todos iguais, sem considerar cor ou raça  ",
+                    ]
+            }
+            
+        ]
+    },
+
+     {
+        enunciado: "O que é racismo estrutural?",
+        alternativas: [
+            {
+                texto:"Sistema de opressão,
+                afirmacao: [
+                    "È a perpetuaçao de desigualdades raciais atraves de instituicoes e politicas ",
+                    ]
+            },
+            {
+                texto:"Neutralidade das politicas publicas",
+                afirmacao: [
+                    "As politicas publicas devem ser neutras e não focar em questoes raciais  ",
                     ]
             }
             
