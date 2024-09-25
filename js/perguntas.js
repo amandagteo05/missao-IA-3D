@@ -5,15 +5,15 @@ export const perguntas = [
             {
                 texto: "Desigualdades de oportunidades",
                 afirmacao: [
-                    "São perpetuadas por instituições, políticas e normas sociais.",
+                    "o racismo estrutural limita o acesso de minorias a emprego, educação e saúde.",
                     "afirmacao 2"
                     ],
                 proxima: 1,
             },
             {
-                texto: "Discriminação individual",
+                texto: "Apenas atitudes pessoais",
                 afirmacao: [
-                    "Apenas a discriminações individual e direta afeta a sociedade",
+                    "As politicas publicas nao sao influenciadas pelo racismo",
                     "afirmacao 2"
                     ], 
                 proxima: 2,
@@ -22,19 +22,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "principal dano causado pelo racismo",
+        enunciado: "Quais sao os efeitos do racismo estrutural na educação",
         alternativas: [
             {
-                texto:"fortalece a autoestima das vitimas",
+                texto:"Desigualdade educacional",
                 afirmacao: [
-                    "racismo enfraquece a autoestima, perpetuando sentimentos de inferioridade",
+                    "o racismo estrutural resulta em menores investimentos em escolas de bairros periféricos",
                     "afirmacao 2"
                     ]
             },
             {
-                texto: "contribui para a exclusão social e marginalização de grupos minoritarios ",
+                texto: "Acesso igualitário ",
                 afirmacao: [
-                    "reforça a desigualdade e estereótipos discriminatórios",
+                    "O acesso á educação é garantido igualmente a todos, independente da raça",
                     "afirmacao 2"
                     ]
             }
