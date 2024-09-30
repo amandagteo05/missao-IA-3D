@@ -88,9 +88,9 @@ export const perguntas = [
                     ]
             },
             {
-                texto:"Neutralidade das politicas publicas",
+                texto:"Preconceito individual ",
                 afirmacao: [
-                    "As politicas publicas devem ser neutras e não focar em questoes raciais  ",
+                    "È apenas o preconceito de uma pessoa contra outra por sua raça  ",
                     ]
             }
             
