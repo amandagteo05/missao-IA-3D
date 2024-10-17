@@ -88,7 +88,7 @@ export const perguntas = [
         enunciado: "O que é racismo estrutural?",
         alternativas: [
             {
-                texto:"Sistema de opressão,
+                texto:"Sistema de opressão",
                 afirmacao: [
                     "È a perpetuaçao de desigualdades raciais atraves de instituicoes e politicas ",
                     ],
